@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923227384506",
+    "project_id": "online-learning-bb966",
+    "storage_bucket": "online-learning-bb966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923227384506:android:a717dd8d272b39ba647083",
+        "android_client_info": {
+          "package_name": "com.example.elearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvpkOBL4MC7EMyYiEexVfDUWIaa7y2ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923227384506:android:f96255b045b9956e647083",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvpkOBL4MC7EMyYiEexVfDUWIaa7y2ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
